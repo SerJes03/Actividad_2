@@ -53,12 +53,6 @@ Durante el análisis se identificaron patrones relacionados con la salud mental 
 
 Las visualizaciones permitieron evidenciar relaciones entre estas variables y comprender mejor el comportamiento del conjunto de datos.
 
-## Video de sustentación
-
-Enlace al video:
-
-https://drive.google.com/file/d/TU_ENLACE_AQUI/view
-
 ## Archivos incluidos
 
 * Notebook de Databricks (.ipynb)
