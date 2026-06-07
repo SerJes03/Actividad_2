@@ -1,10 +1,10 @@
-# Actividad 3 - Procesamiento de Datos en una Infraestructura Cloud
+# Actividad - Procesamiento de Datos en una Infraestructura Cloud
 
-## Estudiante
+## 👩‍💻Estudiante
 
 Jessica Serna Vargas
 
-## Descripción del proyecto
+## 📖Descripción del proyecto
 
 En esta actividad se implementó un proceso de análisis y procesamiento de datos utilizando Apache Spark sobre la plataforma Databricks Community Edition.
 
@@ -33,7 +33,7 @@ El proyecto incluyó las siguientes etapas:
 * Python
 * Matplotlib
 
-## Dataset utilizado
+## 📂Dataset utilizado
 
 Teen Mental Health Dataset
 
@@ -41,7 +41,7 @@ Fuente:
 
 https://www.kaggle.com/datasets/sureshbeekhani/teen-social-media-usage-and-mental-health
 
-## Resultados obtenidos
+## 📈Resultados obtenidos
 
 Durante el análisis se identificaron patrones relacionados con la salud mental de los adolescentes, especialmente en variables como:
 
@@ -53,7 +53,7 @@ Durante el análisis se identificaron patrones relacionados con la salud mental 
 
 Las visualizaciones permitieron evidenciar relaciones entre estas variables y comprender mejor el comportamiento del conjunto de datos.
 
-## Archivos incluidos
+## 📁Archivos incluidos
 
 * Notebook de Databricks (.ipynb)
 * Enlace al video de sustentación
